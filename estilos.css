@@ -1,0 +1,166 @@
+.logoimg{
+    width:120px;
+    margin:10px;
+}
+.header {
+    background-color: #295872;
+}
+img.navbar-brand{
+    width: 100px;
+    margin-left: 25px;
+}
+
+.container {
+    text-align: justify;
+}
+.lancamentos{
+    text-align: center;
+}
+/*deixar a sinopse em negrito*/
+.sinopse{
+    font-weight: bold;
+}
+article{
+    text-align: justify;
+}
+.footer{
+    color: aliceblue;
+    background-color: #295872
+}
+.titulovideo{
+    color: #295872;
+    font-weight: bold;
+   font-size: 25px;
+}
+.container {
+    text-align: justify;
+}
+.profile-header{
+    margin: 0 auto;
+    text-align: left;
+    margin-top: 0;
+}
+h6 {
+    font-weight: bold;
+    color: #295872
+}
+h5{
+    color: #295872;
+    font-weight: bold;
+   font-size: 18px;
+}
+.novidades{
+    font-weight: bold;
+   font-size: 35px;
+}
+.entrevistas{
+    font-weight: bold;
+    font-size: 35px;
+}
+.avaliacoes{
+    font-weight: bold;
+    font-size: 35px;
+}
+.destaques{
+    font-weight: bold;
+   font-size: 35px;
+}
+.lancamentos{
+    font-weight: bold;
+   font-size: 35px;
+}
+.teste{
+    color: #295872;
+    font-weight: bold;
+   font-size: 20px;
+}
+
+.card-img-top{
+    margin-bottom: 10px;
+
+}
+@media screen and (max-width:  768px){
+    .texto{
+        font-size: 20px;
+    }
+    h6{
+        font-size: 20px;
+    }
+    .texto-carousel{
+        font-size: 22px;
+    }
+    .texto-resumo{
+        font-size: 23px;
+    }
+}
+
+@media screen and (max-width: 375px){
+    .texto{
+        font-size: 16px;
+    }
+
+    h6{
+        font-size: 15px;
+    }
+    .texto-carousel{
+        font-size: 15px;
+    }
+    .texto-resumo{
+        font-size: 16px;
+    }
+    .filme{
+        width: 360px;
+        height: 200px;
+    }
+}
+@media screen and (max-width:  1082px){
+    .nav-item{
+        font-size: 13px;
+    }
+}
+@media screen and (max-width:  992px){
+    .nav-item{
+        font-size: 18px;
+    }
+}
+@media screen and (max-width:  375px){
+    .nav-item{
+        font-size: 16px;
+    }
+}
+
+
+.negrito{
+    font-weight: bold;
+   
+}
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+main{
+    background-color: #c6e7f832;
+}
+html{
+    background-color: #c6e7f832;
+}
+.body{
+    background: #c6e7f832;
+}
+.texto-carousel{
+    margin:50px auto;
+   
+}
+
+@media screen and (min-width:  376px){
+    .carousel-indicators{
+   
+        bottom: -50px !important;
+    }
+
+}
+@media screen and (min-width:  376px){
+    .carousel-indicators{
+        margin-bottom: 50px !important;
+    }
+}
